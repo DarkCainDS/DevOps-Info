@@ -1,0 +1,5 @@
+Tareas principales del DevOps
+
+Incorporar procesos, herramientas y metodologias para lograr suplir las necesidades durante el desarrollo de software.
+Garantizar la estabilidad de la aplicacion durante el desarrollo y luego de su lanzamiento.
+Unificar y automatizar los procesos relacionados con la combinación de código y gestion de applicaciones.

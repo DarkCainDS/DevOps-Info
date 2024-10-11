@@ -1,0 +1,18 @@
+SDLC
+No siempre estarán todas dentro de una empresa
+
+Plan: Planificar qué se va a hacer y cómo, salen documentos y listas de tareas
+Code: Tomar las tareas e ideas y plasmarlas en código funcional
+Build: Creación de procesos automáticos para compilar el código construido por los desarrolladores, sale un artefacto o ejecutable
+Test: Tomar esos artefactos y realizarle pruebas para garantizar la calidad del código, sale un reporte y el artefacto testeado
+Release: Guardar ese artefacto testeado dentro de algún sitio para que se consuma posteriormente
+Deploy: Tomar el artefacto y desplegarlo dentro de algún servicio que permita correr la aplicación y que los usuarios la consuman
+Operate: Se construye o se mantiene la infraestructura que tiene la aplicación desplegada
+Monitor: Analizar esa infraestructura que tiene la aplicación desplegada
+Nota:
+
+Puedes comenzar con algunos procesos e ir agregando más a medida que se mejora el proceso
+Las fases de testing están en varios momentos del ciclo ya que hay muchos tipos de test
+Pruebas unitarias
+Pruebas de integración
+Pruebas de estrés

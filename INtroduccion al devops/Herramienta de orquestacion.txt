@@ -1,0 +1,11 @@
+Son herramientas que intercambian información con diferentes procesos para automatizar:
+
+Despliegue de aplicaciones
+Despliegue de infraestructura
+Carga de datos
+Tipos de herramientas
+
+Instaladas en una máquina
+Jenkins Lo debes actualizar y estar pendiente que funciones
+Servicios
+AWS CodePipeline es un servicio que debes configurar pero del que se encarga AWS muy ligada a las demás herramientas de AWS

@@ -1,0 +1,3 @@
+CI: Continuos Integration tomar nuestro código y compilarlo
+CD: Continuos Delivery llega hasta la fase de Release, toma el código empaquetado y lo lleva hasta una plataforma donde queda a la espera de despliegue
+CD Continuos Deployment poner el código dentro de una instancia y levantar la aplicación

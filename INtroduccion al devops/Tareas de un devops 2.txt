@@ -1,0 +1,10 @@
+Empresa que mantiene un software
+En este caso te encontrarás con herramientas enfocadas sólo en una aplicación
+
+Empresa que mantiene muchas aplicaciones
+Pueden existir lenguajes de desarrollo diferentes y entre más aplicaciones se tengan, más complicado será el mantener todos ellas
+
+Tipos de empresas
+
+Ofrecen servicios de DevOps, la complejidad radica en desarrollar pipelines para cada cliente, con diferentes lenguajes y procesos
+Mantienen muchas infraestructuras, no debes desplegar software pero debes crear respaldos y levantar infraestructura usando algo llamado IaC para crear servicios a partir de plantillas que son reproducibles

@@ -1,0 +1,9 @@
+IAC es tomar archivos de código y llevarlos a programas para que creen la infraestructura que quiero levantar
+Terraform
+
+Es multinube entonces facilita el uso de los conceptos en las herramientas de las diferentes nubes
+La tarea principal es replicar ambientes con diferentes características
+Funcionamiento
+Crear colección de archivos con los recursos que requiero desplegar
+Enviar los archivos al CLI terraform
+Terraform me genera un archivo que debo guardar para usar cada vez que quiera crear ese ambiente

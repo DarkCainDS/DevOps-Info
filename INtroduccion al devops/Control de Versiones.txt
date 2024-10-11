@@ -1,0 +1,15 @@
+Se vuelven importantes dentro de la fase de Code del SDLC, para centralizar el código de todos los desarrolladores para evitar conflictos
+
+Plataformas
+
+GitHub
+Bitbucket
+Git Lab
+GCP Cloud Source Repositories
+AWS GitCommit
+Azure repo
+Git
+Es de las más usadas y es de donde sacarás todo lo necesario para crear la aplicación
+
+Comandos (clone, pull, commit, push)
+Flujos

@@ -1,0 +1,7 @@
+Clusters
+Son sistemas que administran recursos
+
+Kubernetes es de software libre entonces se le pueden agregarse muchos plugins que aumentan la funcionalidad
+Archivos de configuración
+CLI
+AWS ECS servicio de amazon pero menos poderoso que Kubernetes funciona con comandos pero el CLI es el mismo de AWS
